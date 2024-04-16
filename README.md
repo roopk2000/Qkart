@@ -9,6 +9,9 @@ Utilized REST APIs to dynamically load and render data served by the backend ser
 Deployed website to Netlify
 Qkart Component Architecture QKart Shopping Interface (Products page)
 
+![image](https://github.com/roopk2000/Qkart/assets/108384154/c82a1a2c-9b5d-4de4-aedc-03ff5bb2120d)
+
+
 # Registration-login Flow & Routing Setup
 Used React Router library to set up routes in the application and redirect customers to appropriate pages
 Added UI and logic to get the Login page ready
