@@ -18,7 +18,7 @@ Added UI and logic to get the Login page ready
 Stored user information at client side using localStorage to avoid login on revisit
 Skills used: React Router, Material UI, localStorage, Controlled Components, Conditional Rendering
 
-# Request-response cycle for QKart User signup and login User flow on website for signup and login
+Request-response cycle for QKart User signup and login User flow on website for signup and login
 
 Registration Feature
 Implemented logic and used backend API to get the registration feature ready
@@ -29,9 +29,13 @@ Added search bar to display only on the Products page’s header and implemented
 Implemented debouncing for improved UX and reduced API calls on search
 Skills Used: Keyword Search, Debouncing, Material UI Grid
 
-# QKart Products page
+![image](https://github.com/roopk2000/Qkart/assets/108384154/5647df86-da77-4fbb-b329-793edfa51459)
 
-Shopping Cart and Checkout Flow
+
+QKart Products page
+![image](https://github.com/roopk2000/Qkart/assets/108384154/8bdffbd6-4ce3-4bd8-97ff-a1eba54fe0f3)
+
+# Shopping Cart and Checkout Flow
 Added Cart to Products page and made it responsive
 Made authenticated POST API calls to implement Cart logic
 Rendered Cart with differing designs in Products page and Checkout page using conditional rendering.
